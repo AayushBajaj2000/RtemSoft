@@ -1,5 +1,5 @@
 import React from "react";
-import CenterScreen from "./CenterScreen";
+import CenterScreen from "../utils/CenterScreen";
 
 const Footer = () => {
     return (
@@ -12,12 +12,12 @@ const Footer = () => {
                             class="flex items-center"
                         >
                             <img
-                                src="https://flowbite.com/docs/images/logo.svg"
-                                class="mr-3 h-8"
-                                alt="FlowBite Logo"
+                                src="/logos/RTEMSOFT_SVG_NOTEXT.svg"
+                                class="mr-3 h-10 w-10"
+                                alt="RTEMSOFT Logo"
                             />
                             <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">
-                                Flowbite
+                                RTEMSOFT
                             </span>
                         </a>
                     </div>
@@ -91,8 +91,8 @@ const Footer = () => {
                 <div class="sm:flex sm:items-center sm:justify-between">
                     <span class="text-sm text-gray-500 sm:text-center dark:text-gray-400">
                         © 2022{" "}
-                        <a href="https://flowbite.com/" class="hover:underline">
-                            Flowbite™
+                        <a href="#" class="hover:underline">
+                            RTEMSOFT
                         </a>
                         . All Rights Reserved.
                     </span>

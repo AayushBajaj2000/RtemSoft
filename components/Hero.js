@@ -1,7 +1,7 @@
 /* This example requires Tailwind CSS v2.0+ */
 import { Fragment } from "react";
 import { Popover, Transition } from "@headlessui/react";
-import { MenuIcon, XIcon } from "@heroicons/react/outline";
+import { MenuIcon, XIcon, ArrowRightIcon } from "@heroicons/react/outline";
 
 const navigation = [
     { name: "Projects", href: "#" },
@@ -14,7 +14,7 @@ const navigation = [
 
 export default function Hero() {
     return (
-        <div className="flex justify-center">
+        <div className="flex justify-center svg_back">
             <div className="max-w-[1500px] flex-1 2xl:mr-[100px]">
                 <div className="relative bg-white overflow-hidden">
                     <div className="max-w-7xl mx-auto">
@@ -95,7 +95,7 @@ export default function Hero() {
                                                 <div>
                                                     <img
                                                         className="h-8 w-auto"
-                                                        src="https://tailwindui.com/img/logos/workflow-mark-indigo-600.svg"
+                                                        src="/logos/RTEMSOFT_SVG_NOTEXT.svg"
                                                         alt=""
                                                     />
                                                 </div>
@@ -165,15 +165,11 @@ export default function Hero() {
                                                 href="#"
                                                 className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700 md:py-4 md:text-lg md:px-10"
                                             >
-                                                Get started
-                                            </a>
-                                        </div>
-                                        <div className="mt-3 sm:mt-0 sm:ml-3">
-                                            <a
-                                                href="#"
-                                                className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-indigo-700 bg-indigo-100 hover:bg-indigo-200 md:py-4 md:text-lg md:px-10"
-                                            >
-                                                Live demo
+                                                See Current Openings
+                                                <ArrowRightIcon
+                                                    width={23}
+                                                    className="ml-[10px]"
+                                                />
                                             </a>
                                         </div>
                                     </div>

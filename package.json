@@ -11,10 +11,14 @@
   "dependencies": {
     "@headlessui/react": "^1.6.6",
     "@heroicons/react": "^1.0.6",
+    "@types/node": "^18.0.5",
+    "@types/react": "^18.0.15",
     "next": "12.2.2",
     "react": "^18.2.0",
     "react-dom": "18.2.0",
-    "react-twitter-embed": "^4.0.4"
+    "react-twitter-embed": "^4.0.4",
+    "twitter-api-sdk": "^1.1.0",
+    "typescript": "^4.7.4"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.7",
