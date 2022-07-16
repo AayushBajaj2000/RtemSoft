@@ -46,8 +46,8 @@ export default function Hero() {
                                                     </span>
                                                     <img
                                                         alt="Workflow"
-                                                        className="h-8 w-auto sm:h-10"
-                                                        src="https://tailwindui.com/img/logos/workflow-mark-indigo-600.svg"
+                                                        className="h-8 w-auto sm:h-14"
+                                                        src="/logos/RTEMSOFT_SVG_NOTEXT.svg"
                                                     />
                                                 </a>
                                                 <div className="-mr-2 flex items-center md:hidden">
@@ -129,7 +129,7 @@ export default function Hero() {
 
                             <main className="mt-10 mx-auto max-w-7xl px-4 sm:mt-12 sm:px-6 md:mt-16 lg:mt-20 lg:px-8 xl:mt-28">
                                 <div className="sm:text-center lg:text-left">
-                                    <h1 className="text-4xl tracking-tight font-extrabold text-gray-900 sm:text-5xl md:text-6xl">
+                                    <h1 className="text-4xl tracking-tight font-extrabold text-gray-900 sm:text-5xl md:text-5xl">
                                         <span className="block xl:inline">
                                             Real-Time Embedded
                                         </span>{" "}

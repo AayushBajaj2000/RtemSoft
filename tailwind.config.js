@@ -38,7 +38,21 @@ module.exports = {
             emerald: colors.emerald,
             indigo: colors.indigo,
             yellow: colors.yellow,
-            primary: "red",
+            primary: {
+                lighter: "#f5f5f5",
+                default: "#f5f5f5",
+                dark: "#f5f5f5",
+            },
+            secondary: {
+                lighter: "#f5f5f5",
+                default: "#f5f5f5",
+                dark: "#f5f5f5",
+            },
+            highlight: {
+                lighter: "#f5f5f5",
+                default: "#f5f5f5",
+                dark: "#f5f5f5",
+            },
         },
     },
     plugins: [],
