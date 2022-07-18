@@ -1,5 +1,4 @@
 import Hero from "../components/Hero";
-import Footer from "../components/Footer";
 import ClientLogos from "../components/client-logos";
 
 export default function Page() {
@@ -7,7 +6,6 @@ export default function Page() {
         <>
             <Hero />
             <ClientLogos />
-            <Footer />
         </>
     );
 }

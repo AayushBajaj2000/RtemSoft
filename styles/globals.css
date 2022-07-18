@@ -1,3 +1,14 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.back_image{
+    background-image: url("/otu_campus.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body, html{
+    background-color: #F9FAFC;
+
+}

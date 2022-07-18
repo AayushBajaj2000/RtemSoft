@@ -6,7 +6,6 @@ const Projects = () => {
     return (
         <>
             <Blog />
-            <Footer />
         </>
     );
 };
