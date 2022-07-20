@@ -1,5 +1,6 @@
 import React, { useCallback, useRef } from "react";
 import useAnimationFrame from "../utils/use-animation-frame";
+import CenterScreen from "./CenterScreen";
 
 const SliderContainer = ({ children, initialOffsetX }) => {
   const refScrollX = React.useRef(initialOffsetX);
