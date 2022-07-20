@@ -2,10 +2,18 @@ import React from "react";
 
 const Heading = ({ title, desc }) => {
     return (
-        <div className="p-2 mt-1">
-            <h1 className="text-2xl font-bold md:text-4xl">{title}</h1>
-            <p className="text-gray-500 mt-2">{desc}</p>
-            <hr className="w-[100%] my-2"></hr>
+        <div
+            className="h-[250px] rounded-xl mt-4"
+            style={{
+                backgroundImage: "url('header_bg.jpg')",
+                backgroundRepeat: "no-repeat",
+                backgroundSize: "cover",
+            }}
+        >
+            <h1 className="p-8 text-xl text-white font-bold md:text-6xl">
+                {title}
+            </h1>
+            <p className="p-8 mt-[-45px] text-white">{desc}</p>
         </div>
     );
 };
