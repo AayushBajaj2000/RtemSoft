@@ -1,15 +1,22 @@
 import React from "react";
 
-const Person = () => {
+const Person = ({ name, desc, photo }) => {
     return (
         <>
             <div className="mt-5 h-[300px]">
-                <div className="h-[230px] back_image rounded-2xl shadow-md"></div>
+                <div
+                    className="h-[230px] rounded-2xl shadow-md"
+                    style={{
+                        backgroundImage: `url('/team/${photo}')`,
+                        backgroundRepeat: "no-repeat",
+                        backgroundSize: "cover",
+                    }}
+                ></div>
                 <p className="mt-3 text-base font-semibold text-gray-600">
-                    John Doe
+                    {name}
                 </p>
                 <p className="text-base font-semibold text-indigo-700">
-                    MASc, BSc, P.Eng
+                    {desc}
                 </p>
             </div>
         </>

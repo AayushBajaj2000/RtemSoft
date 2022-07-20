@@ -10,7 +10,6 @@ const Blog = () => {
         fetch("/data/projects.json")
             .then((res) => res.json())
             .then((data) => {
-                console.log(data);
                 setPosts(data.data);
             });
     }, []);

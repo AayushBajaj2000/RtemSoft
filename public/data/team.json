@@ -1,0 +1,84 @@
+{
+    "data": [
+        {
+            "name": "Joelma Peixoto",
+            "desc": "PhD Student",
+            "picture": "joelma.webp"
+        },
+        {
+            "name": "Md. Asif Khan",
+            "desc": "PhD Student (Co-supervised with Dr. Liscano)",
+            "picture": "asif.webp"
+        },
+        {
+            "name": "Md Al Maruf",
+            "desc": "PhD Student",
+            "picture": "maruf.webp"
+        },
+        {
+            "name": "Amin Avan",
+            "desc": "PhD Student (Co-supervised with Dr. Mahmoud)",
+            "picture": "amin.webp"
+        },
+        {
+            "name": "Bradley Wood",
+            "desc": "PhD Student",
+            "picture": "brad.webp"
+        },
+        {
+            "name": "Nayreet Islam",
+            "desc": "PhD Student",
+            "picture": "nayreet.webp"
+        },
+        {
+            "name": "Mansour Alqarni",
+            "desc": "PhD Student",
+            "picture": "mansour.webp"
+        },
+        {
+            "name": "Joseph Robertson",
+            "desc": "MSc Student (Co-supervised with Dr. Liscano)",
+            "picture": "missing.webp"
+        },
+        {
+            "name": "Rezwana Mamata",
+            "desc": "MASc Student",
+            "picture": "rezwana.webp"
+        },
+        {
+            "name": "Aritra Ahmed",
+            "desc": "MASc Student (Co-supervised with Dr. Liscano)",
+            "picture": "aritra.webp"
+        },
+        {
+            "name": "Aakash Gangolli",
+            "desc": "MASc Student (Co-supervised with Dr. Mahmoud)",
+            "picture": "aakash.webp"
+        },
+        {
+            "name": "Anukruthi Karre",
+            "desc": "MEng Student (Project-based)",
+            "picture": "missing.webp"
+        },
+        {
+            "name": "Muhammad Hayyan Bin Shahid",
+            "desc": "MEng Student (Project-based)",
+            "picture": "missing.webp"
+        },
+        {
+            "name": "Asma Fariha",
+            "desc": "MASc Student (Co-supervised with Dr. Alwidian)",
+            "picture": "missing.webp"
+        },
+        {
+            "name": "Ridwan Hossain",
+            "desc": "(NSERC USRA), 2022",
+            "picture": "missing.webp"
+        },
+        {
+            "name": "Harshemeet Singh",
+            "desc": "(MITACS Globalink Intern), 2022",
+            "picture": "missing.webp"
+        }
+    ]
+}
