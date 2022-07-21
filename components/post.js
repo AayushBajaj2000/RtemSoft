@@ -6,7 +6,7 @@ const truncate = (str) => {
 
 const Post = ({ date, heading, content, media }) => {
     return (
-        <div className="p-4 flex flex-col h-[300px]">
+        <div className="shadow-md rounded-lg p-4 flex flex-col h-[300px]">
             <p className="h-[20px] text-gray-500 text-xs">{date}</p>
             <h1 className="h-[80px] text-black font-bold md:text-2xl">
                 {heading}
