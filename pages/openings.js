@@ -9,7 +9,7 @@ const Openings = () => {
         title={"Openings"}
         desc={"Openings and annoucements for prospective students."}
       />
-      <div className="p-2">
+      <div className="p-2 min-h-[calc(100vh-325px)]">
         <h1 className="text-lg font-bold mb-1">Ph.D. and Master’s Positions</h1>
         <p className="text-base mb-5 text-gray-600">
           We often have positions for graduate students (MASc or PhD).

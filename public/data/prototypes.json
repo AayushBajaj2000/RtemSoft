@@ -2,8 +2,8 @@
   "data": [
     {
       "heading": "Design & Development of a ML-Based IoT Applications for Reducing Carbon Footprint",
-      "description": "This project designs and develops an application to reduce the carbon footprint with a focus on residents. The mobile application EcoPal allows users to track their carbon emissions and receive daily reports on how to minimize them. Moreover, the application includes different services such as controlling home utilities via mobile app, providing carbon production for a user’s diet or transportation habit, recommendations on reducing carbon footprint, and automation of home utilities. Team members: Taha Hashmat, Cassidy Linhares, Austin Page, Dr. Akramul Azim (Advisor)",
-      "media": "https://www.youtube.com/watch?v=uzLRgcH-vVM&ab_channel=PageySZN"
+      "summary": "This project designs and develops an application to reduce the carbon footprint with a focus on residents. The mobile application EcoPal allows users to track their carbon emissions and receive daily reports on how to minimize them. Moreover, the application includes different services such as controlling home utilities via mobile app, providing carbon production for a user’s diet or transportation habit, recommendations on reducing carbon footprint, and automation of home utilities. Team members: Taha Hashmat, Cassidy Linhares, Austin Page, Dr. Akramul Azim (Advisor)",
+      "yid": "uzLRgcH-vVM"
     },
     {
       "heading": "SIP/RTP Communications in Kubernetes Environment",
@@ -83,27 +83,27 @@
     {
       "heading": "CARDS (Cards on Augmented Reality Display System)",
       "summary": "CARDS is a computer system designed to assist Magic: The Gathering players. It uses computer vision to identify cards on a play surface in real time and bring them into a virtual play area where they can be viewed and modified with counters. The app also keeps track of each player’s health, who’s turn it is, and which phase of the turn they’re in, along with a log of the most recent actions taken. Players interact with the system using two tablet interfaces, and the system supports an unlimited amount of spectator devices connected to it. \n Team members: Pat Smuk, Daniel Moy, Aaron Cole, and Nick Holman",
-      "media": "https://www.youtube.com/watch?v=atk4J6om53I&ab_channel=PatSmuk"
+      "yid": "atk4J6om53I"
     },
     {
       "heading": "CVC (Connected Vehicle Cloud)",
       "summary": "Many people consider the Internet to be one of the, if not just the, greatest inventions of the twentieth century. From its roots as a communication tool intended for military use, it rapidly expanded and lost its niche purposes as it became increasingly adopted by general consumers with the advent of the World Wide Web. \n The problem is, even with the massive global infrastructure that forms the backbone of the Internet is to this day, there are always limits as to how much data this infrastructure can handle. Together with the never-ceasing and always-increasing demands for Internet-connected devices, unique solutions would need to be explored to accommodate them in the coming years to avoid overload and in turn a possible large-scale breakdown. The emerging field of cloud computing, the use of Internet resources on an on-demand basis, can play a role into prevent such occurrences, it is highly impractical in the long-term, as will be detailed shortly. \n Another technological field with massive expansion in recent years is that of autonomous, or self-driving vehicles, which require little to no operator interference, pushing further beyond the limits to which they can reach. As such, our capstone project incorporates such vehicles, which are becoming increasingly abundant, to perform functions beyond their traditional usage of transporting passengers or cargo. Were these vehicles equipped with servers capable of connecting to nearby users or Internet architecture directly, they would be able to service areas with high data traffic on short notice and in a very flexible manner. \n Team members: Yasha Prikhodko, Dylan Kauling, Christopher Blachnio, Andrew Lau",
-      "media": "https://www.youtube.com/watch?v=D_UwH2OnGsI&ab_channel=NayreetIslamRupak"
+      "yid": "D_UwH2OnGsI"
     },
     {
       "heading": "nextFridge: A Next-Generation Smart Fridge",
       "summary": "The nextFridge is a next-generation system that was designed to augment the household fridge. It uses modern day advancements in computer vision, cloud computing, Internet of Things (IOT), and mobile development to build an intelligent system aimed at consumer and businesses alike. Our system is capable of identifying the items placed inside the fridge with their respective quantites, provide nutrional breakdowns on these items, supports configuring alerts for the items detected low quantity, provides recommendations on what can be made based on items available, allows users to remotely peek inside their fridges, and much more. The nextFridge system was designed to be completely modular and cost-effective serving as an excellent competitor to the smart fridges that are currently being sold. \n Website: http://nextfridge.com",
-      "media": "https://www.youtube.com/watch?v=UDz0xO6fW-w&t=17s&ab_channel=NextFridge"
+      "yid": "UDz0xO6fW-w"
     },
     {
       "heading": "Vehicle Analytics System",
       "summary": "A cloud-based controller area network (CAN) message processing system and an android app are developed to retrieve and display useful information regarding vehicle internals. \n Capstone Project by Achal Parikh, Sagar Desai, Asmy Sarasan \n Advisor: Dr. Akramul Azim",
-      "media": "https://www.youtube.com/watch?v=sWjJbjfcPy0&t=1s&ab_channel=AchalParikh"
+      "yid": "sWjJbjfcPy0"
     },
     {
       "heading": "Heart Health Analyzer",
       "summary": "Our mission was to create a machine learning based heartbeat classifier using a digital stethoscope. The system we have created works by recording a users heartbeat, then uploading the heartbeat audio file through our website to our cloud platform to be saved in the database. Here in the cloud the heartbeat audio is analyzed and classified into its appropriate category. The user can view their results either on our cloud-hosted website or android-based mobile application. This project is composed of many different fields, in particular, Machine Learning,  Medicine, Algorithms and the Internet of Things.",
-      "media": "https://www.youtube.com/watch?v=7aLI88uMBsM&ab_channel=TseringPaljor"
+      "yid": "7aLI88uMBsM"
     }
   ]
 }

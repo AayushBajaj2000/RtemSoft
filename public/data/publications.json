@@ -1,0 +1,242 @@
+{
+  "data": {
+    "2022": [
+      {
+        "heading": "[Conference] Rezwana Mamata, Akramul Azim, “A Resource-Aware Optimization Model for Real-time Systems Analysis and Design”, WiP in EMSOFT, 2022. [Accepted]"
+      },
+      {
+        "heading": "[Journal] Joelma Peixoto, Akramul Azim, “Improving environmental awareness for autonomous vehicles”, Applied Intelligence: 1-13, 2022."
+      },
+      {
+        "heading": "[Conference] Mansour Alqarni and Akramul Azim, “Low Level Source Code Vulnerability Detection Using Advanced BERT Language Model”, The 35th Canadian Conference Artificial Intelligence (Canadian AI), 2022."
+      }
+    ],
+    "2021": [
+      {
+        "heading": "[Journal] Peixoto, Maria JP, and Akramul Azim, “Using time-correlated noise to encourage exploration and improve autonomous agents performance in Reinforcement Learning”, Procedia Computer Science 191: pp. 85-92, 2021."
+      },
+      {
+        "heading": "[Conference] Md Asif Khan, Tegveer Singh, Akramul Azim, Vivek Burhanpurkar, Rodolphe Perrin, “Dynamic Kalman filter-based velocity tracker for Intelligent vehicle”, IECON, 2021."
+      },
+      {
+        "heading": "[Conference] Bradley Wood and Akramul Azim, “A Novel Technique for Control Flow Obfuscation in JVM Applications using Invoke Dynamic with Native Bootstrapping”, CASCON, 2021."
+      },
+      {
+        "heading": "[Conference] Mansour Alqarni and Akramul Azim, Software Source Code Vulnerability Detection Using Advanced Deep Convolutional Neural Networkt, CASCON, 2021."
+      },
+      {
+        "heading": "[Conference] Md Asif Khan, Akramul Azim Ramiro Liscano, Kevin Smith, Yee-Kang Chang, Sylvian Garcon and Qasim Tauseef, Failure prediction using machine learning in IBM WebSphere Liberty continuous integration environment, CASCON, 2021."
+      },
+      {
+        "heading": "[Journal] Md Al Maruf, Anil Singh, Akramul Azim, and Nitin Auluck, “Faster Fog Computing based Over-the-air Vehicular Updates: A Transfer Learning Approach”, IEEE Transactions on Services Computing, 2021."
+      },
+      {
+        "heading": "[Journal] Suzanne Elashri and Akramul Azim, An Energy-Efficient Periodic Resource Model for Bounded Delay-Tolerant Real-Time Systems, IEEE Access, 2021."
+      },
+      {
+        "heading": "[Conference] Thomas Li and Akramul Azim, “Wireless and autonomous safety-critical system utilizing feedback”, In 2021 IEEE International Systems Conference (SysCon), 2021, Canada"
+      },
+      {
+        "heading": "[Conference] Deepak Saggu and Akramul Azim, “Transfer Learning on the Edge Networks”, In 2021 IEEE International Systems Conference (SysCon), 2021, Canada"
+      },
+      {
+        "heading": "[Conference] David Lennick, Akramul Azim, Ramiro Liscano, “A Microservice-Based Architecture for Performance and Energy Benchmarking of Docker-Host Linux Distributions on Internet-of-Things Devices”, In 22nd IEEE Conference on Internet Technology (ICIT), 2021"
+      },
+      {
+        "heading": "[Conference] Bradley Wood, Akramul Azim, “Triton: a Domain Specific Language for Cyber-Physical Systems”, In 22nd IEEE Conference on Internet Technology (ICIT), 2021"
+      },
+      {
+        "heading": "[Conference] Nelson Vithayathil Varghese, Akramul Azim, Qusay Mahmoud, “A Feature-Based Machine Learning Approach for Mixed-Criticality Systems”, In 22nd IEEE Conference on Internet Technology (ICIT), 2021"
+      },
+      {
+        "heading": "[Conference] Ramiro Liscano, Samridhi Samridhi, Akramul Azim, Nahid Khan, Abdul Zainul Abedin, Brian Pulito and Yee-Kang Chang, “Supporting SIP Port Mapping and RTP Affinity Constraints in Container Orchestration Environments, In 24th Conference on Innovation in Clouds, Internet and Networks and Workshops (ICIN), 2021, France"
+      }
+    ],
+    "2020": [
+      {
+        "heading": "[Journal] Okwudili M. Ezeme , Qusay Mahmoud, Akramul Azim, Design and Development of AD-CGAN: Conditional Generative Adversarial Networks for Anomaly Detection, In IEEE Access, 2020"
+      },
+      {
+        "heading": "[Conference] Samridhi, Ramiro Liscano, Akramul Azim, Abdul Zainul Abedin, “Failure Scenarios for SIP/RTP services in Container Orchestration Clusters, In International Symposium on Networks, Computers and Communications (ISNCC), 2020, Canada."
+      },
+      {
+        "heading": "[Journal] Bradley Wood, Brock Watling, Zachary Winn, Daniel Messiha, Qusay H. Mahmoud and Akramul Azim. Remote Method Delegation: a Platform for Grid Computing”, In Journal of Grid Computing, IF: 2.095, July 2020"
+      },
+      {
+        "heading": "[Journal] Md Al Maruf and Akramul Azim, “Requirements-preserving design automation for multiprocessor embedded system applications”, In Journal of Ambient Intelligence and Humanized Computing (AIHC), IF: 4.594, June 2020"
+      },
+      {
+        "heading": "[Conference] Md Al Maruf, Anil Singh, Akramul Azim and Nitin Auluck, “Resource efficient allocation of fog nodes for faster vehicular OTA updates”, In IEEE International Symposium on Networks, Computers and Communications (ISNCC’2020), Montreal, Canada"
+      },
+      {
+        "heading": "[Conference] Md Al Maruf, Akramul Azim and Sourojit Mukherjee, “Mushroom Demand Prediction Using Machine Learning Algorithms”, In IEEE International Symposium on Networks, Computers and Communications (ISNCC’2020), Montreal, Canada"
+      },
+      {
+        "heading": "[Conference] Nayreet Islam and Akramul Azim, “A Situation-Aware Adaptation Framework for Intelligent Transportation Systems”, In IEEE International Symposium On Real-Time Distributed Computing 2020 (ISORC’2020), USA "
+      },
+      {
+        "heading": "[Conference] Joelma Peixoto and Akramul Azim “Context-based learning for autonomous vehicles”, In IEEE International Symposium On Real-Time Distributed Computing 2020 (ISORC’2020), USA"
+      },
+      {
+        "heading": "[Journal] Md Al Maruf and Akramul Azim, “A calibration framework to increase the robustness of embedded systems”, In International Journal of Embedded Systems (IJES), 2020"
+      },
+      {
+        "heading": "[Journal] Nayreet Islam and Akramul Azim, A situation-aware task model for adaptive real-time systems, Journal of Ambient Intelligence and Humanized Computing, 2020"
+      },
+      {
+        "heading": "[Journal] Okwudili M. Ezeme , Qusay Mahmoud , Akramul Azim, “PESKEA: Anomaly Detection Framework for Profiling Kernel Event Attributes in Embedded Systems”, IEEE Transactions on Emerging Computing, January 2020"
+      },
+      {
+        "heading": "[Journal] Okwudili M. Ezeme , Qusay Mahmoud , Akramul Azim, “A Framework for Anomaly Detection in Time-Driven and Event-Driven Processes using Kernel Traces”, IEEE Transactions on Knowledge and Data Engineering, January 2020"
+      },
+      {
+        "heading": "[Journal] Suzanne Elashri and Akramul Azim, “Energy-efficient offloading of real-time tasks using cloud computing”, Cluster Computing, March 2020"
+      },
+      {
+        "heading": "[Journal] Darren Saguil and Akramul Azim, “A Layer-Partitioning Approach for Faster Execution of Neural Network Based Embedded Applications in Edge Networks”, IEEE Access, March 2020"
+      },
+      {
+        "heading": "[Conference] Ramiro Liscano, Samridhi Samridhi, Akramul Azim, Nahid Khan, Abdul Zainul Abedin, Brian Pulito and Yee-Kang Chang, “Supporting SIP Port Mapping and RTP Affinity Constraints in Container Orchestration Environments, In 24th Conference on Innovation in Clouds, Internet and Networks and Workshops (ICIN), 2021, France"
+      }
+    ],
+    "2019": [
+      {
+        "heading": "[Conference] Kaneez Fizza, Nitin Auluck, Akramul Azim, Md. Al Maruf, Anil Singh, Faster OTA Updates in Smart Vehicles using Fog Computing, In CloudAM workshop of IEEE/ACM International Conference on Utility and Cloud Computing (UCC2019), USA"
+      },
+      {
+        "heading": "[Conference] Akramul Azim, “Delay Bound Function for Cyber-Physical Systems”, WiP in EMSOFT, 2019"
+      },
+      {
+        "heading": "[Conference] Nayreet Islam and Akramul Azim, Feature characterization for CPS software reuse , In WiP of 10th ACM/IEEE International Conference on Cyber Physical Systems (ICCPS), April 2019, Canada"
+      },
+      {
+        "heading": "[Conference] Okwudili Ezeme, Michael Lescisin, Qusay Mahmoud and Akramul Azim, ”DeepAnom: An Ensemble Deep Framework for Anomaly Detection in  System Processes”, The 32nd Canadian Conference on Artificial Intelligence, May 28-May31, 2019, Canada "
+      },
+      {
+        "heading": "[Conference] Mellitus Ezeme, Akramul Azim, and Qusay Mahmoud, “A Deep Learning Approach to Distributed Anomaly Detection for Edge Computing”, In IEEE international conference on machine learning and applications (ICMLA), 2019, USA"
+      },
+      {
+        "heading": "[Journal] Md Al Maruf and Akramul Azim, “Extending resources for avoiding overloads of mixed-criticality tasks in cyber-physical systems”, In IET Journal on Cyber-Physical Systems: Theory and Applications, September 2019"
+      },
+      {
+        "heading": "[Journal] Kaneez Fizza, Nitin Auluck, Akramul Azim, “Improving the Schedulability of Real-Time Tasks using Fog Computing” In IEEE Transactions on Services Computing, September, 2019 "
+      },
+      {
+        "heading": "[Journal] Okwudili M. Ezeme , Qusay Mahmoud , Akramul Azim, “DReAM: Deep Recursive Attentive Model for Anomaly Detection in Kernel Events”, IEEE Access, 04 February 2019"
+      }
+    ],
+    "2018": [
+      {
+        "heading": "[Conference] Nayreet Islam, and Akramul Azim.”Assuring the runtime behavior of self-adaptive cyber-physical systems using feature modeling.” Proceedings of the 28th Annual International Conference on Computer Science and Software Engineering. IBM Corp., 2018."
+      },
+      {
+        "heading": "[Conference] Md. Al Maruf, A. Azim. Software-based Monitoring for Calibration of Measurement Units in Real-time Systems. IECON 2018 -The 44th Annual Conference of the IEEE Industrial Electronics Society, IEEE, 2018."
+      },
+      {
+        "heading": "[Conference] Mellitus Ezeme, Qusay Mahmoud and Akramul Azim, “Hierarchical Attention-Based Anomaly Detection Model for Embedded Operating Systems”, In 24th IEEE International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA), Japan, 2018"
+      },
+      {
+        "heading": "[Journal] Nayreet Islam, and Akramul Azim. “A Multi-Mode Real-time System Verification Model Using Efficient Event-driven Dataset”.Journal of Ambient Intelligence and Humanized Computing (2018): 1-9."
+      }
+    ],
+    "2017": [
+      {
+        "heading": "[Journal] Xi Chen and Akramul Azim, “TFS: A TDMA-based Feedback Scheduling for Networked Control Systems”, Intelligent Industrial Systems Journal (Springer), 2017"
+      },
+      {
+        "heading": "[Journal] Akramul Azim, “Generation of Fault-Tolerant State-based Communication Schedules for Real-Time Systems”, In EURASIP Journal on Embedded Systems, 2017"
+      },
+      {
+        "heading": "[Conference] Islam, Nayreet, and Akramul Azim. “CARTS: Constraint-based analytics from real-time system monitoring.” Systems, Man, and Cybernetics (SMC), 2017 IEEE International Conference on. IEEE, 2017."
+      },
+      {
+        "heading": "[Conference] Mellitus Ezeme, Akramul Azim, and Qusay H. Mahmoud. 2017. An Imputation-based Augmented Anomaly Detection from Large Traces of Operating System Events. In BDCAT17: Big Data Computing, Applications and Technologies. ACM, New York, NY, USA, 2017."
+      },
+      {
+        "heading": "[Conference] Mohammad Jassas, Jortin Mathew, Akramul Azim, an Qusay Mahmoud, ” A Framework for Extending Resources of Embedded Systems Using the Cloud”, CCECE 2017, Canada."
+      }
+    ],
+    "2016": [
+      {
+        "heading": "[Journal] Mohammad Mahfuzul Islam, Akramul Azim, Golam Sorwar, “A New Dynamic Service Span Based Energy Comparison LEACH for Achieving Expected WSNs Lifetime”, International Journal of Information and Communication Technology, Vol. 8 Issue 2-3, pp. 165-183, 2016."
+      },
+      {
+        "heading": "[Conference] Akramul Azim and Sebastian Fischmeister. “Efficient Mode Changes in Multi-Mode Systems”. The 34th IEEE International Conference on Computer Design (ICCD), Phoenix, United States, October, 2016"
+      },
+      {
+        "heading": "[Conference] Akramul Azim, “Overloads in Compositional Embedded Real-Time Control Systems”, 27th IEEE International Symposium on Rapid System Prototyping (RSP) — A co-located symposium in Embedded System Week, United States, October 2016"
+      },
+      {
+        "heading": "[Conference] Akramul Azim, “ Analyzing Consensus in Multi-Mode Real-Time Communication Using History Information”, In proceedings (WIP) of the IEEE emerging technology and factory automation (ETFA), page: 1-6, Berlin, 2016."
+      }
+    ],
+    "2015": [
+      {
+        "heading": "[Conference] Akramul Azim, Sebastian Fischmeister, and Rodolfo Pellizzoni, “Generation of Communication Schedules Using Component Interfaces”, In proceedings of the IEEE emerging technology and factory automation (ETFA), page: 1-9, Luxembourg, 2015."
+      }
+    ],
+    "2014": [
+      {
+        "heading": "[Conference] Augusto Born de Oliveira, Akramul Azim, Sebastian Fischmeister, Ricardo Marau, Luis Almeida, “D-RES: Correct transitive distributed service sharing”, In proceedings of the work-in-progress of the emerging technology and factory automation (ETFA), Spain, 2014."
+      },
+      {
+        "heading": "[Conference] Akramul Azim, Gonzalo Carvajal, Rodolfo Pellizzoni, and Sebastian Fischmeister, “Generation of Communication Schedules for Multi-Mode Distributed Real-Time Applications”, In proceedings of the Design, Automation and Test in Europe (DATE), March 2014, Dresden, Germany."
+      },
+      {
+        "heading": "[Journal]  Akramul Azim, Sanjid Mahiba, Tarikul Alam Khan Sabbir, Shafayet Ahmad, “Efficient Jammed Area Mapping in Wireless Sensor Networks”, IEEE Embedded Systems Letters, Vol. 6 Issue 4, pp. 93-96, 2014."
+      },
+      {
+        "heading": "[Journal] Xi Chen, Akramul Azim, Xue Liu, Sebastian Fischmeister, and Jun Ma, “DTS: Dynamic TDMA Scheduling for Networked Control Systems”, Journal of Systems Architecture, Vol. 60 Issue 2, pp. 194-205, 2014."
+      }
+    ],
+    "2013": [
+      {
+        "heading": "[Conference] Akramul Azim, Shreyas Sundaram, and Sebastian Fischmeister, “An Efficient Periodic Resource Supply Model for Workloads with Transient Overloads”, In proceedings of the 25th Euromicro Conference on Real-time Systems (ECRTS), France, 2013."
+      },
+      {
+        "heading": "[Conference] Chris Hobbs and Akramul Azim, “Balancing Safety, Security and Functionality”, In proceedings of the 21st Safety-critical System Symposium (SSS), Bristol, 2013."
+      }
+    ],
+    "2012": [
+      {
+        "heading": "[Conference] Chris Hobbs, Guy Broadfoot, and Akramul Azim, “Has the era of formal methods already begun?”, In proceedings of the Embedded Software Engineering Congress (ESE), Germany, 2012."
+      },
+      {
+        "heading": "[Conference] Xi Chen, Akramul Azim, Xue Liu, and Sebastian Fischmeister, “Conditional State-based Scheduling for Networked Control Systems”, Proc. of the 18th IEEE International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA), Korea, August, 2012."
+      },
+      {
+        "heading": "[Conference] Akramul Azim, Mohammad Mahfuzul Islam, “Deterministic Cluster Head Selection for Wireless Sensor Networks”, IEEE International Canadian Conference on Electrical and Computer Engineering (CCECE) 2012, Canada."
+      },
+      {
+        "heading": "[Journal] Akramul Azim and Mohammad Mahfuzul Islam, “A Relay Node Based Hybrid Low Energy Adaptive Clustering Hierarchy for Wireless Sensor Networks”, International Journal of Energy, Information and Communications, Vol. 3 Issue.3, pp. 41-54, 2012."
+      }
+    ],
+    "2011": [
+      {
+        "heading": "[Conference] Akramul Azim and Sebastian Fischmeister, “Resolving State Inconsistency in Real-Time Fault-Tolerant Dynamic TDMA Architectures”, Proc. of the 16th IEEE Emerging Technologies and Factory Automation (ETFA), France, September 2011."
+      }
+    ],
+    "2010": [
+      {
+        "heading": "[Conference] Sebastian Fischmeister and Akramul Azim, “Design Choices for High-Confidence Distributed Real-time Software”, Proc. of the International Symposium On Leveraging Applications of Formal Methods, Verification and Validation (ISoLA), Heraclion, Crete, October, 2010."
+      },
+      {
+        "heading": "[Conference] Dumitru Potop-Butucaru, Akramul Azim, and Sebastian Fischmeister, “Semantics-Preserving Implementation of Synchronous Specifications Over Dynamic TDMA Distributed Architectures”, Proc. of the International Conference on Embedded Software (EMSOFT), Scottsdale, Arizona, USA, October, 2010."
+      },
+      {
+        "heading": "[Conference] Akramul Azim, Mohammad Mahfuzul Islam,“Dynamic Service Policy-based Clustered Wireless Sensor Networks”, The 6th IEEE International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob 2010), October 11-13, 2010, Canada."
+      },
+      {
+        "heading": "[Conference] Akramul Azim, Mohammad Mahfuzul Islam, Golam Sorwar, “Estimating The Initial Battery Power of Nodes and the Optimal Number of Clusters To Achieve the Expected Life Span of Wireless Sensor Networks”, Proceedings of IEEE TENCON 2010, December, Japan."
+      }
+    ],
+    "2009": [
+      {
+        "heading": "[Conference] Akramul Azim, Mohammad Mahfuzul Islam, “Hybrid LEACH: A Relay Node Based Low Energy Adaptive Clustering Hierarchy for Wireless Sensor Networks”, IEEE 9th Malaysia International Conference on Communications (MICC 2009), December, 2009, Malaysia."
+      },
+      {
+        "heading": "[Conference] Akramul Azim, Mohammad Mahfuzul Islam, “A Dynamic Round-Time Based Fixed Low Energy Adaptive Clustering Hierarchy for Wireless Sensor Networks”, IEEE 9th Malaysia International Conference on Communications (MICC 2009), December, 2009, Malaysia."
+      }
+    ]
+  }
+}
