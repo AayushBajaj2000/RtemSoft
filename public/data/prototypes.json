@@ -1,0 +1,109 @@
+{
+  "data": [
+    {
+      "heading": "Design & Development of a ML-Based IoT Applications for Reducing Carbon Footprint",
+      "description": "This project designs and develops an application to reduce the carbon footprint with a focus on residents. The mobile application EcoPal allows users to track their carbon emissions and receive daily reports on how to minimize them. Moreover, the application includes different services such as controlling home utilities via mobile app, providing carbon production for a user’s diet or transportation habit, recommendations on reducing carbon footprint, and automation of home utilities. Team members: Taha Hashmat, Cassidy Linhares, Austin Page, Dr. Akramul Azim (Advisor)",
+      "media": "https://www.youtube.com/watch?v=uzLRgcH-vVM&ab_channel=PageySZN"
+    },
+    {
+      "heading": "SIP/RTP Communications in Kubernetes Environment",
+      "summary": "This project aims to build an ingress router to enable scalable and efficient SIP/RTP communications in Kubernetes environment.",
+      "media": ""
+    },
+    {
+      "heading": "Network Code integration in TrueTime",
+      "summary": "In this project, the Network Code framework was successfully integrated using C functions in the Matlab/Simulink-based open-source real-time systems simulator TrueTime and published as a new version of TrueTime (http://www3.control.lth.se/truetime/). TrueTime is a widely used simulation framework of networked and embedded control systems. Network Code framework provides an environment to describe TDMA schedules with conditional branching.",
+      "media": ""
+    },
+    {
+      "heading": "Configuring LLVM as a crosscompiler for ARM",
+      "summary": "Worked on ARMV5TE Gumstix verdex and ARMV7TE-A Gumstix Overo boards to generate executable from C programs for these targets by configuring low level virtual machine (LLVM) as a crosscompiler in Windows. The crosscompiler was successfully integrated to Quanser control software QUARC. A static analysis plugin was also developed to analyze C programs.",
+      "media": ""
+    },
+    {
+      "heading": "Automatic generation of formally verified C code",
+      "summary": "Worked on open-source (RODIN) and proprietary software (ASD-VERUM) to generate C code automatically from the model of a patient monitoring system. Several safety and real-time properties of the model were checked and verified to reduce the effort of verification and testing. This provides formal verification of the model that is transformed into the C code.",
+      "media": ""
+    },
+    {
+      "heading": "schedGen: Generator for TDMA communication schedules with branching",
+      "summary": "Starting from a state machine description of the distributed tasks, a number of scripts were written (http://mathworks.com/matlabcentral/fileexchange/44716) in Matlab to generate abstract representations of TDMA communication schedules with branching for a given specification of the system. The AMPL/GUROBI optimizer was used to perform design optimization.",
+      "media": ""
+    },
+    {
+      "heading": "sbFinder: finding resource supply for workloads",
+      "summary": "A set of Matlab scripts (https://bitbucket.org/aazim/sbfinder) was developed to provide specifications of workloads as input and find a set of suitable resource supplies as output. These script implemented demand and supply bound functions used in real-time systems for the timing analysis.",
+      "media": ""
+    },
+    {
+      "heading": "Jamming area mapping in networks",
+      "summary": "A java application was developed to map an area of jammed nodes upon receiving messages from the neighboring nodes. Different types of messages and nodes were implemented to facilitate different types of transmissions in the network environment.",
+      "media": ""
+    },
+    {
+      "heading": "Network protocols plugin in J-Sim",
+      "summary": "Proposed network protocols and implemented them in Java-based simulator (J-Sim). The protocols were implemented using Java and compared with other protocols available in J-Sim.",
+      "media": ""
+    },
+    {
+      "heading": "Automotive Test Cases Generator",
+      "summary": "A software is developed to visualize different components of a car and generate a number of test cases based on the user selection.",
+      "media": ""
+    },
+    {
+      "heading": "Kernel-Level Test Case Generator using System Calls",
+      "summary": "The tool developed utilizes the ACTS combinatorial test case generator and Trinity which is a Linux system call fuzz tester.",
+      "media": ""
+    },
+    {
+      "heading": "Hardware-in-the-loop testing framework",
+      "summary": "We have developed a test bench combining instrument cluster, infotainment unit, and steering wheel of a car and driving simulator CARLA. This bench can be used to verify and validate autonomous driving software by interacting with the real-life driving components.",
+      "media": "https://rtemsoft.com/wp-content/uploads/2021/12/CARLA_Demo.webm"
+    },
+    {
+      "heading": "Active Vents",
+      "summary": "A scaled down model home was designed and built with a functioning heating unit and a air manifold to disperse different volumes of air to rooms. The home also had temperature sensors in all the rooms so we could analyze how well our system is performing when we tested different control strategies on it. The control strategies that were tested on our system where basic thermostat based control, rule based control system and a reinforcement learning control system.",
+      "media": ""
+    },
+    {
+      "heading": "EPIC: Extensible Package Integration Controller",
+      "summary": "The Extensible Package Integration Controller is a means of software systems infrastructure implementation and control that allows for configuration and mechanistic interfacing from a constructed Internet of Things (IoT) framework perspective. Beyond allowing for IoT systems definitions, Extensible Package Integration Controller (EPIC) could be implemented as an overall distributed systems interaction base, for the fact that it implies no predefined requirements for component inclusion requirements prior to interaction.",
+      "media": ""
+    },
+    {
+      "heading": "Software Product Line Diagram Generator from Embedded C programs",
+      "summary": "A python-based tool is designed and created to extract embedded C programs and generate a software product line diagram with all the relationships among of the various functional components.",
+      "media": ""
+    },
+    {
+      "heading": "BroomBOT",
+      "summary": "Vacuuming is a chore that no one wants to be faced with this. It is laborious, monotonous, and boring in today’s fast-paced society. Moreover, it is a time-consuming task. That’s why robotic cleaners have become very popular and prevalent in the last few years as it gives its users an escape from this tedious weekly chore. The goal of this project is to improve the mapping algorithm to avoid obstacles for cleaning a room conveniently and efficiently. \n Fundamental Components: 3-wheel Design, Body Structure, SLAM Algorithm, Grid Mapping, Cleaning Brushes, Ultrasonic Sensors, and Odometry system. \n Team members: Brad Wood, Zach Winn Brock Walting, Daniel Messiha",
+      "media": "https://rtemsoft.com/wp-content/uploads/2019/04/BroomBOT-1-1.mp4"
+    },
+    {
+      "heading": "CARDS (Cards on Augmented Reality Display System)",
+      "summary": "CARDS is a computer system designed to assist Magic: The Gathering players. It uses computer vision to identify cards on a play surface in real time and bring them into a virtual play area where they can be viewed and modified with counters. The app also keeps track of each player’s health, who’s turn it is, and which phase of the turn they’re in, along with a log of the most recent actions taken. Players interact with the system using two tablet interfaces, and the system supports an unlimited amount of spectator devices connected to it. \n Team members: Pat Smuk, Daniel Moy, Aaron Cole, and Nick Holman",
+      "media": "https://www.youtube.com/watch?v=atk4J6om53I&ab_channel=PatSmuk"
+    },
+    {
+      "heading": "CVC (Connected Vehicle Cloud)",
+      "summary": "Many people consider the Internet to be one of the, if not just the, greatest inventions of the twentieth century. From its roots as a communication tool intended for military use, it rapidly expanded and lost its niche purposes as it became increasingly adopted by general consumers with the advent of the World Wide Web. \n The problem is, even with the massive global infrastructure that forms the backbone of the Internet is to this day, there are always limits as to how much data this infrastructure can handle. Together with the never-ceasing and always-increasing demands for Internet-connected devices, unique solutions would need to be explored to accommodate them in the coming years to avoid overload and in turn a possible large-scale breakdown. The emerging field of cloud computing, the use of Internet resources on an on-demand basis, can play a role into prevent such occurrences, it is highly impractical in the long-term, as will be detailed shortly. \n Another technological field with massive expansion in recent years is that of autonomous, or self-driving vehicles, which require little to no operator interference, pushing further beyond the limits to which they can reach. As such, our capstone project incorporates such vehicles, which are becoming increasingly abundant, to perform functions beyond their traditional usage of transporting passengers or cargo. Were these vehicles equipped with servers capable of connecting to nearby users or Internet architecture directly, they would be able to service areas with high data traffic on short notice and in a very flexible manner. \n Team members: Yasha Prikhodko, Dylan Kauling, Christopher Blachnio, Andrew Lau",
+      "media": "https://www.youtube.com/watch?v=D_UwH2OnGsI&ab_channel=NayreetIslamRupak"
+    },
+    {
+      "heading": "nextFridge: A Next-Generation Smart Fridge",
+      "summary": "The nextFridge is a next-generation system that was designed to augment the household fridge. It uses modern day advancements in computer vision, cloud computing, Internet of Things (IOT), and mobile development to build an intelligent system aimed at consumer and businesses alike. Our system is capable of identifying the items placed inside the fridge with their respective quantites, provide nutrional breakdowns on these items, supports configuring alerts for the items detected low quantity, provides recommendations on what can be made based on items available, allows users to remotely peek inside their fridges, and much more. The nextFridge system was designed to be completely modular and cost-effective serving as an excellent competitor to the smart fridges that are currently being sold. \n Website: http://nextfridge.com",
+      "media": "https://www.youtube.com/watch?v=UDz0xO6fW-w&t=17s&ab_channel=NextFridge"
+    },
+    {
+      "heading": "Vehicle Analytics System",
+      "summary": "A cloud-based controller area network (CAN) message processing system and an android app are developed to retrieve and display useful information regarding vehicle internals. \n Capstone Project by Achal Parikh, Sagar Desai, Asmy Sarasan \n Advisor: Dr. Akramul Azim",
+      "media": "https://www.youtube.com/watch?v=sWjJbjfcPy0&t=1s&ab_channel=AchalParikh"
+    },
+    {
+      "heading": "Heart Health Analyzer",
+      "summary": "Our mission was to create a machine learning based heartbeat classifier using a digital stethoscope. The system we have created works by recording a users heartbeat, then uploading the heartbeat audio file through our website to our cloud platform to be saved in the database. Here in the cloud the heartbeat audio is analyzed and classified into its appropriate category. The user can view their results either on our cloud-hosted website or android-based mobile application. This project is composed of many different fields, in particular, Machine Learning,  Medicine, Algorithms and the Internet of Things.",
+      "media": "https://www.youtube.com/watch?v=7aLI88uMBsM&ab_channel=TseringPaljor"
+    }
+  ]
+}
