@@ -1,12 +1,9 @@
 import React, { useEffect, useState } from "react";
-import { Fragment } from "react";
-import CenterScreen from "../utils/CenterScreen";
 import Link from "next/link";
-import { Popover, Transition } from "@headlessui/react";
-import { MenuIcon, XIcon, ArrowRightIcon } from "@heroicons/react/outline";
 import { useRouter } from "next/router";
 
 const navigation = [
+  { name: "Home", href: "/" },
   { name: "Projects", href: "/projects" },
   { name: "People", href: "/people" },
   { name: "Prototypes", href: "/prototypes" },

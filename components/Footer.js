@@ -4,6 +4,7 @@ import Link from "next/link";
 import { useRouter } from "next/router";
 
 const navigation = [
+  { name: "Home", href: "/" },
   { name: "Projects", href: "/projects" },
   { name: "People", href: "/people" },
   { name: "Prototypes", href: "/prototypes" },
