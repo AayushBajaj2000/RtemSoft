@@ -27,3 +27,17 @@ html {
 .line_after::after {
   width: 100%;
 }
+
+.line_before_footer::after {
+  content: "";
+  position: absolute;
+  bottom: -10px;
+  left: 0;
+  background: indigo;
+  height: 3.5px;
+  width: 0px;
+}
+
+.line_after_footer::after {
+  width: 100%;
+}

@@ -24,9 +24,9 @@ const Footer = () => {
               return (
                 <Link key={index} href={item.href}>
                   <a
-                    className={`mx-[5px] sm:mx-[15px] font-medium text-white  ${
+                    className={`mx-[5px] sm:mx-[15px] relative font-medium text-white line_before_footer  ${
                       router.asPath === item.href &&
-                      "text-indigo-300 font-bold line_after"
+                      "text-indigo-300 font-bold line_after_footer"
                     }`}
                   >
                     {item.name}
