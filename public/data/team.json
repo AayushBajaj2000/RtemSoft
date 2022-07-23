@@ -1,5 +1,5 @@
 {
-    "data": [
+    "new": [
         {
             "name": "Joelma Peixoto",
             "desc": "PhD Student",
@@ -79,6 +79,128 @@
             "name": "Harshemeet Singh",
             "desc": "(MITACS Globalink Intern), 2022",
             "picture": "missing.webp"
+        }
+    ],
+    "old": [
+        {
+            "name": "Nahid Hasan Khan",
+            "picture": "missing.webp",
+            "desc": "MASc Student, 2022"
+        },
+        {
+            "name": "Tegveer Singh",
+            "picture": "missing.webp",
+            "desc": "Research Technician, 2021"
+        },
+        {
+            "name": "Deepak Kumar Saggu",
+            "picture": "missing.webp",
+            "desc": "MASc Student, 2021"
+        },
+        {
+            "name": "Suzanne Elashri",
+            "picture": "missing.webp",
+            "desc": "MASc Student, 2021"
+        },
+        {
+            "name": "Dihan Niloy",
+            "picture": "missing.webp",
+            "desc": "Research Technician, 2021"
+        },
+        {
+            "name": "Jamieson Leibovitch",
+            "picture": "missing.webp",
+            "desc": "Research Technician, 2021"
+        },
+        {
+            "name": "Bradley Wood",
+            "picture": "missing.webp",
+            "desc": "MASc Student, 2021"
+        },
+        {
+            "name": "Thomas Li",
+            "picture": "missing.webp",
+            "desc": "MEng. Student (Project-based), 2021"
+        },
+        {
+            "name": "David Lennick",
+            "picture": "missing.webp",
+            "desc": "(MSc Student, Co-supervised with Dr. Liscano), 2020"
+        },
+        {
+            "name": "Mellitus Ezeme",
+            "picture": "missing.webp",
+            "desc": "(PhD Student, Co-supervised with Dr. Mahmoud), 2020"
+        },
+        {
+            "name": "Pawan Patel",
+            "picture": "missing.webp",
+            "desc": "(NSERC USRA), 2020"
+        },
+        {
+            "name": "Darren Saguil",
+            "picture": "missing.webp",
+            "desc": "(MASc), 2019"
+        },
+        {
+            "name": "Amalnnath Parameswaran",
+            "picture": "missing.webp",
+            "desc": "(NSERC USRA, RA), 2019"
+        },
+        {
+            "name": "Md Al Maruf",
+            "picture": "missing.webp",
+            "desc": "(MASc), 2019"
+        },
+        {
+            "name": "Jyoti Prakash Mohanty",
+            "picture": "missing.webp",
+            "desc": "(Visiting student from NIIT, India), 2019"
+        },
+        {
+            "name": "Sourojit Mukherjee",
+            "picture": "missing.webp",
+            "desc": "(Visiting student from NIIT, India), 2019"
+        },
+        {
+            "name": "Ignacio Mauro",
+            "picture": "missing.webp",
+            "desc": "(Visiting student from U of Frontera, Chile), 2019"
+        },
+        {
+            "name": "Nayreet Islam",
+            "picture": "missing.webp",
+            "desc": "(MASc), 2018"
+        },
+        {
+            "name": "Imen Kanzali",
+            "picture": "missing.webp",
+            "desc": "(Visiting student from U of SFAX), 2018"
+        },
+        {
+            "name": "Paul Femi-gege",
+            "picture": "missing.webp",
+            "desc": "(NSERC USRA), 2018"
+        },
+        {
+            "name": "Kaneez Fizza Rizvi",
+            "picture": "missing.webp",
+            "desc": "(Visiting student from IIT, India), 2018"
+        },
+        {
+            "name": "Mustafizur Rahman",
+            "picture": "missing.webp",
+            "desc": "(Research Associate), 2018"
+        },
+        {
+            "name": "Sharar Mahmood",
+            "picture": "missing.webp",
+            "desc": "(Visiting Scholar), 2017"
+        },
+        {
+            "name": "Marcelo Esperguel",
+            "picture": "missing.webp",
+            "desc": "(Visiting student from U of Frontera, Chile), 2017"
         }
     ]
 }
