@@ -13,3 +13,17 @@ html {
   background-color: #f9fafc;
   overflow-x: hidden;
 }
+
+.line_before::after {
+  content: "";
+  position: absolute;
+  bottom: -10px;
+  left: 0;
+  background: indigo;
+  height: 3.5px;
+  width: 0px;
+}
+
+.line_after::after {
+  width: 100%;
+}
