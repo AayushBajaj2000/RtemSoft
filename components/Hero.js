@@ -4,6 +4,7 @@ import { Popover, Transition } from "@headlessui/react";
 import { MenuIcon, XIcon, ArrowRightIcon } from "@heroicons/react/outline";
 import Image from "next/image";
 import CenterScreen from "../utils/CenterScreen";
+import Link from "next/link";
 
 const navigation = [
     { name: "Projects", href: "#" },
@@ -45,17 +46,19 @@ function Hero() {
                         software systems.
                     </p>
                     <div className="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
-                        <div className="rounded-md shadow">
-                            <a
-                                href="#"
-                                className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700 md:py-4 md:text-lg md:px-10"
-                            >
-                                See openings
-                                <span>
-                                    <ArrowRightIcon className="h-[20px] ml-2 pt-1" />
-                                </span>
-                            </a>
-                        </div>
+                        <Link href="/contact">
+                            <div className="rounded-md shadow">
+                                <a
+                                    href="#"
+                                    className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-indigo-600 md:py-4 md:text-lg md:px-10"
+                                >
+                                    See openings
+                                    <span>
+                                        <ArrowRightIcon className="h-[20px] ml-2 pt-1" />
+                                    </span>
+                                </a>
+                            </div>
+                        </Link>
                     </div>
                 </div>
                 <div className="w-full flex items-center h-[400px] lg:h-[700px] back_image"></div>
