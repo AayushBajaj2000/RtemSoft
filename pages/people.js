@@ -27,26 +27,29 @@ const People = () => {
         desc={"Check out some of the members on our team."}
       />
 
-      <h1 className="text-4xl font-bold mt-6">Current Students</h1>
-      <div className="grid gap-4 grid-cols-2 md:grid-cols-4 lg:grid-cols-5">
-        {data.new.map((person) => (
-          <Person
-            name={person.name}
-            desc={person.desc}
-            photo={person.picture}
-          />
-        ))}
+      <div className="p-5">
+        <h1 className="mt-6 text-4xl font-bold">Current Students</h1>
+        <div className="grid grid-cols-2 gap-4 md:grid-cols-4 lg:grid-cols-5">
+          {data.new.map((person) => (
+            <Person
+              name={person.name}
+              desc={person.desc}
+              photo={person.picture}
+            />
+          ))}
+        </div>
       </div>
-
-      <h1 className="text-4xl font-bold mt-6">Past Students</h1>
-      <div className="grid gap-4 grid-cols-2 md:grid-cols-4 lg:grid-cols-5 mb-10">
-        {data.old.map((person) => (
-          <Person
-            name={person.name}
-            desc={person.desc}
-            photo={person.picture}
-          />
-        ))}
+      <div className="p-5">
+        <h1 className="mt-6 text-4xl font-bold">Past Students</h1>
+        <div className="grid grid-cols-2 gap-4 mb-10 md:grid-cols-4 lg:grid-cols-5">
+          {data.old.map((person) => (
+            <Person
+              name={person.name}
+              desc={person.desc}
+              photo={person.picture}
+            />
+          ))}
+        </div>
       </div>
     </CenterScreen>
   );

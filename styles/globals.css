@@ -1,6 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap");
 
 .back_image {
   background-image: url("/otu_campus.jpg");

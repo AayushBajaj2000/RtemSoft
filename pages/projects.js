@@ -26,7 +26,7 @@ const Projects = () => {
         title={"Research Projects"}
         desc={"Check out some of the projects from our lab."}
       />
-      <div className="grid gap-4 grid-cols-1 lg:grid-cols-2 mb-[150px] mt-4">
+      <div className="grid gap-4 grid-cols-1 lg:grid-cols-2 mb-[150px] mt-4 p-5">
         {data.map((post) => (
           <Post
             date={"March 16, 2020"}
