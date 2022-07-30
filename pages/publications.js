@@ -10,14 +10,10 @@ const fetchPublications = async () => {
 };
 
 const Publications = () => {
-    const { data, error, status } = useQuery(
-        ["publications"],
-        fetchPublications,
-        {
-            cacheTime: 1000 * 60 * 60,
-            refetchOnMount: false,
-        }
-    );
+    const { data, error, status } = useQuery(["publications"], fetchPublications, {
+        cacheTime: 1000 * 60 * 60,
+        refetchOnMount: false,
+    });
 
     if (status === "loading") {
         return <div className="mb-[100vh]">Loading...</div>;
@@ -25,44 +21,23 @@ const Publications = () => {
 
     return (
         <CenterScreen>
-            <Heading
-                title={"Publications"}
-                desc={"Publications from our team members."}
-                notRounded
-            />
+            <Heading title={"Publications"} desc={"Publications from our team members."} notRounded />
             <div className="flex flex-col mx-4">
                 <div className="flex flex-col items-center py-2 px-5 bg-white">
-                    {[
-                        "2022",
-                        "2021",
-                        "2020",
-                        "2019",
-                        "2018",
-                        "2017",
-                        "2016",
-                        "2015",
-                        "2014",
-                        "2013",
-                        "2012",
-                    ].map((date) => (
-                        <div className="mt-[20px]">
-                            <div className="w-[100%]">
-                                <h1 className="mb-1 text-2xl font-bold font-main">
-                                    {date}
-                                </h1>
-                            </div>
-                            {data[date].map((proto, index) => (
-                                <div
-                                    className="flex flex-col max-w-4xl mt-3"
-                                    key={index}
-                                >
-                                    <p className="mb-0 text-base text-justify text-gray-600 ">
-                                        {proto.heading}
-                                    </p>
+                    {["2022", "2021", "2020", "2019", "2018", "2017", "2016", "2015", "2014", "2013", "2012"].map(
+                        (date, index) => (
+                            <div className="mt-[20px]" key={index}>
+                                <div className="w-[100%]">
+                                    <h1 className="mb-1 text-2xl font-bold font-main">{date}</h1>
                                 </div>
-                            ))}
-                        </div>
-                    ))}
+                                {data[date].map((proto, index) => (
+                                    <div className="flex flex-col max-w-4xl mt-3" key={index}>
+                                        <p className="mb-0 text-base text-justify text-gray-600 ">{proto.heading}</p>
+                                    </div>
+                                ))}
+                            </div>
+                        )
+                    )}
                 </div>
             </div>
         </CenterScreen>

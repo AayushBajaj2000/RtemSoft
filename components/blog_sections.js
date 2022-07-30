@@ -16,13 +16,11 @@ const Blog = () => {
 
     return (
         <CenterScreen>
-            <Heading
-                title={"Research Projects"}
-                desc={"Check out some of the projects from our lab."}
-            />
+            <Heading title={"Research Projects"} desc={"Check out some of the projects from our lab."} />
             <div className="grid gap-4 grid-cols-1 lg:grid-cols-2 mb-[150px] mt-4">
-                {posts?.map((post) => (
+                {posts?.map((post, index) => (
                     <Post
+                        key={index}
                         date={"March 16, 2020"}
                         heading={post.heading}
                         content={post.summary}
