@@ -35,11 +35,7 @@
             "desc": "PhD Student",
             "picture": "mansour.webp"
         },
-        {
-            "name": "Joseph Robertson",
-            "desc": "MSc Student (Co-supervised with Dr. Liscano)",
-            "picture": "missing.webp"
-        },
+
         {
             "name": "Rezwana Mamata",
             "desc": "MASc Student",
@@ -54,6 +50,11 @@
             "name": "Aakash Gangolli",
             "desc": "MASc Student (Co-supervised with Dr. Mahmoud)",
             "picture": "aakash.webp"
+        },
+        {
+            "name": "Joseph Robertson",
+            "desc": "MSc Student (Co-supervised with Dr. Liscano)",
+            "picture": "missing.webp"
         },
         {
             "name": "Anukruthi Karre",
