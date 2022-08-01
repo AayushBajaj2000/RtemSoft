@@ -20,12 +20,16 @@ const Post = ({ date, heading, content, media, key }) => {
 
     return (
         <div key={key}>
-            <div className="bg-white shadow-lg rounded-lg p-4 flex flex-col h-[300px]">
+            <div className="bg-white shadow-lg rounded-lg p-4 flex flex-col h-[400px] sm:h-[300px]">
                 <p className="h-[20px] text-gray-500 text-xs">{date}</p>
                 <div className="h-[95px] flex items-center">
-                    <h1 className="font-bold text-black  md:text-2xl">{heading}</h1>
+                    <h1 className="font-bold text-black  md:text-2xl">
+                        {heading}
+                    </h1>
                 </div>
-                <p className="h-[120px] text-gray-500 text-sm mb-2 md:text-[16px]">{truncate(content)}</p>
+                <p className="h-[200px] sm:h-[120px] text-gray-500 text-sm mb-2 md:text-[16px]">
+                    {truncate(content)}
+                </p>
                 <p
                     onClick={handleOpen}
                     className="hover:cursor-pointer hover:text-indigo-400 h-[20px] text-indigo-600 text-sm font-bold"
@@ -35,7 +39,12 @@ const Post = ({ date, heading, content, media, key }) => {
             </div>
 
             <Transition.Root show={open} as={Fragment}>
-                <Dialog as="div" className="relative z-20" initialFocus={cancelButtonRef} onClose={handleClose}>
+                <Dialog
+                    as="div"
+                    className="relative z-20"
+                    initialFocus={cancelButtonRef}
+                    onClose={handleClose}
+                >
                     <Transition.Child
                         as={Fragment}
                         enter="ease-out duration-300"
@@ -70,10 +79,18 @@ const Post = ({ date, heading, content, media, key }) => {
                                                     {heading}
                                                 </Dialog.Title>
                                                 <div className="mt-2">
-                                                    <p className="text-sm text-gray-500 md:text-md">{content}</p>
+                                                    <p className="text-sm text-gray-500 md:text-md">
+                                                        {content}
+                                                    </p>
                                                 </div>
                                                 <div className="flex justify-center mt-2">
-                                                    {media && <img src={media} width={300} height={300} />}
+                                                    {media && (
+                                                        <img
+                                                            src={media}
+                                                            width={300}
+                                                            height={300}
+                                                        />
+                                                    )}
                                                 </div>
                                             </div>
                                         </div>

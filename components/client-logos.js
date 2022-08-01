@@ -18,7 +18,26 @@ const images = [
 
 const ClientLogos = () => {
     return (
-        <>
+        <div className="mb-[100px]">
+            <section className="pt-28 bg-gray-50">
+                <div className="container mx-auto overflow-hidden md:px-4">
+                    <h1 className="text-4xl font-extrabold tracking-tight text-center text-gray-900 sm:text-5xl">
+                        <span className="block text-center xl:inline ">
+                            Our Industrial Sponsors
+                        </span>
+                    </h1>
+                    <p className="mt-3  text-justify text-gray-500 sm:mt-5 sm:text-lg md:mt-5 md:text-lg md:px-[50px]">
+                        The research group heavily interacts with industry
+                        through industrial collaborations. The list of current
+                        and past research partners include: IBM Canada,
+                        BlackBerry QNX, QA Consulting, Novaerial Robotics,
+                        Greenwood Mushroom Farm, Cyberworks Robotics, Smartcone
+                        Technologies, NorthLine Canada, Mobile Innovations, and
+                        Measurements International. Our research is supported by
+                        NSERC and Ontario Tech University.
+                    </p>
+                </div>
+            </section>
             <SliderContainer initialOffsetX={0}>
                 {images.map((image, index) => (
                     <SliderItem key={index} width={200}>
@@ -36,7 +55,24 @@ const ClientLogos = () => {
                     </SliderItem>
                 ))}
             </SliderContainer>
-        </>
+            <SliderContainer initialOffsetX={600}>
+                {images.map((image, index) => (
+                    <SliderItem key={index} width={200}>
+                        <Image
+                            key={index}
+                            src={image}
+                            alt="client logo"
+                            width={150}
+                            height={150}
+                            objectFit="contain"
+                            style={{
+                                filter: "grayscale(100%)",
+                            }}
+                        />
+                    </SliderItem>
+                ))}
+            </SliderContainer>
+        </div>
     );
 };
 
