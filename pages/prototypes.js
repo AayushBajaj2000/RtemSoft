@@ -39,10 +39,10 @@ const Prototypes = () => {
             <div className="flex flex-col items-center p-2 mx-4 bg-white">
                 {data.map((proto, index) => (
                     <div className="max-w-4xl p-3 mt-1" key={index}>
-                        <h1 className="mb-1 font-bold sm:text-2xl md:text-3xl ">
+                        <h1 className="mb-1 font-bold text-xl sm:text-2xl md:text-3xl ">
                             {proto.heading}
                         </h1>
-                        <p className="mb-1 text-justify text-gray-600 md:text-lg">
+                        <p className="mb-1 text-justify text-gray-600 text-xs sm:text-sm md:text-lg">
                             {proto.summary}
                         </p>
                         {proto.media && (

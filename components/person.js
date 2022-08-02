@@ -9,6 +9,7 @@ const Person = ({ name, desc, photo, key }) => {
                     backgroundImage: `url('/team/${photo}')`,
                     backgroundRepeat: "no-repeat",
                     backgroundSize: "cover",
+                    backgroundPosition: "center",
                 }}
             ></div>
             <p className="mt-3 text-base font-semibold text-gray-600">{name}</p>

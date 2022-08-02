@@ -19,7 +19,7 @@ function Hero() {
     return (
         <CenterScreen>
             <div className="grid w-full grid-cols-1 gap-4 lg:grid-cols-2">
-                <div className="w-full flex justify-center flex-col p-[20px]">
+                <div className="w-full flex justify-center flex-col p-5">
                     <h1 className="text-center lg:text-left text-3xl font-extrabold tracking-tight text-gray-900 sm:mx-auto sm:text-4xl md:text-4xl lg:text-5xl ">
                         <span className="block lg:inline">
                             Real-Time Embedded

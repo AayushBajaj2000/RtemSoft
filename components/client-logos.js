@@ -26,7 +26,7 @@ const ClientLogos = () => {
                             Our Industrial Sponsors
                         </span>
                     </h1>
-                    <p className="mt-3  text-justify text-gray-500 sm:mt-5 sm:text-lg md:mt-5 md:text-lg md:px-[50px]">
+                    <p className="mt-3 text-justify text-gray-500 sm:mt-5 sm:text-lg md:mt-5 md:text-lg md:px-[50px] p-6 xs:p-0">
                         The research group heavily interacts with industry
                         through industrial collaborations. The list of current
                         and past research partners include: IBM Canada,
